@@ -1,0 +1,6 @@
+{
+    "mongoURI":"mongodb+srv://admin:admin@cluster0.kupyg.mongodb.net/developers?retryWrites=true&w=majority",
+    "jwtSecret":"mySecret",
+    "githubClientId": "5c040abbd8b2fe033bfb",
+    "githubSecret":"d3fc9b24f04dd1575b55d90984de552b67422ff4"
+}
